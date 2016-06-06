@@ -4,6 +4,7 @@ More cards on one screen for Trello
 Chrome extension that allows Trello cards to become smaller and smaller, fitting more cards on one page for overview
 
 Here is the inbeacon trello extension combo:
+
 https://github.com/inbeacon/layout-trello
 
 https://github.com/inbeacon/agilescrumfortrello
