@@ -1,11 +1,10 @@
 List Layouts for Trello
 =======================
 
-Chrome extension that allows Trello lists to be displayed vertically or in a grid.
-
-The List Layouts for Trello extension adds a button to your Trello board pages allowing you to toggle the layout of the lists from horizontal to grid to vertical.
+Chrome extension that allows Trello cards to become smaller and smaller, fitting more cards on one page for overview
 
 Installation
 ------------
 
-Download and install the extension from here: [Chrome Web Store - List Layouts for Trello](https://chrome.google.com/webstore/detail/list-layouts-for-trello/aldklnbenbdgfgfbflalmlddkkndgnlc)
+Git clone, go to chrome extenions, developer mode on, and load unpacked extension from the directory with the manifest.json in it
+

@@ -13,7 +13,9 @@
   
   "content_scripts": [{
     "matches": ["*://trello.com/*"],
-    "js":["contentscript.js"]
+    "js":[  "jquery.js",
+            "contentscript.js"
+          ]
   }],
   
   "background": {
