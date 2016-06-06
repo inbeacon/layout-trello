@@ -1,4 +1,4 @@
-List Layouts for Trello
+More cards on one screen for Trello
 =======================
 
 Chrome extension that allows Trello cards to become smaller and smaller, fitting more cards on one page for overview
